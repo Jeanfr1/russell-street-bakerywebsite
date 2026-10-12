@@ -1,0 +1,77 @@
+{
+  "canvas": [
+    1536,
+    1024
+  ],
+  "peel": {
+    "note": "similarity transform that puts 05-camadas/pa-e-massas.png on 03-hero/forno-cena-mestre.png",
+    "scale": 0.77043,
+    "rotation_deg": 0.326,
+    "tx": 309.25,
+    "ty": 218.9,
+    "inliers": 309,
+    "median_err_px": 1.9,
+    "joint": [
+      990.0,
+      682.0
+    ],
+    "bbox_registered": [
+      337,
+      667,
+      1488,
+      965
+    ],
+    "content_rect": [
+      30,
+      569,
+      1506,
+      402
+    ]
+  },
+  "croissant": {
+    "pieces": [
+      {
+        "id": "s1",
+        "x": 47,
+        "y": 437,
+        "w": 377,
+        "h": 425
+      },
+      {
+        "id": "s2",
+        "x": 399,
+        "y": 356,
+        "w": 243,
+        "h": 524
+      },
+      {
+        "id": "s3",
+        "x": 623,
+        "y": 374,
+        "w": 282,
+        "h": 523
+      },
+      {
+        "id": "s4",
+        "x": 896,
+        "y": 398,
+        "w": 240,
+        "h": 484
+      },
+      {
+        "id": "s5",
+        "x": 1119,
+        "y": 475,
+        "w": 382,
+        "h": 383
+      },
+      {
+        "id": "ingredients",
+        "x": 166,
+        "y": 111,
+        "w": 1290,
+        "h": 431
+      }
+    ]
+  }
+}

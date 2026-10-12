@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+.vercel
+# third-party inspiration boards and screen recordings from the kit stay local
+00-referencias/
+# regenerable intermediates (npm run hero / scripts/upscale.py)
+assets-src/upscaled/
+assets-src/layers/
+qa/

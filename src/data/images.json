@@ -1,0 +1,270 @@
+{
+  "version": "v1",
+  "images": {
+    "oven-plate": {
+      "w": 3072,
+      "h": 2048,
+      "widths": [
+        960,
+        1600,
+        2400,
+        3072
+      ],
+      "alpha": false,
+      "formats": [
+        "avif",
+        "webp",
+        "jpg"
+      ]
+    },
+    "peel": {
+      "w": 3012,
+      "h": 804,
+      "widths": [
+        960,
+        1600,
+        2400,
+        3012
+      ],
+      "alpha": true,
+      "formats": [
+        "avif",
+        "webp"
+      ]
+    },
+    "croissant-s1": {
+      "w": 754,
+      "h": 850,
+      "widths": [
+        377,
+        754
+      ],
+      "alpha": true,
+      "formats": [
+        "avif",
+        "webp"
+      ]
+    },
+    "croissant-s2": {
+      "w": 486,
+      "h": 1048,
+      "widths": [
+        243,
+        486
+      ],
+      "alpha": true,
+      "formats": [
+        "avif",
+        "webp"
+      ]
+    },
+    "croissant-s3": {
+      "w": 564,
+      "h": 1046,
+      "widths": [
+        282,
+        564
+      ],
+      "alpha": true,
+      "formats": [
+        "avif",
+        "webp"
+      ]
+    },
+    "croissant-s4": {
+      "w": 480,
+      "h": 968,
+      "widths": [
+        240,
+        480
+      ],
+      "alpha": true,
+      "formats": [
+        "avif",
+        "webp"
+      ]
+    },
+    "croissant-s5": {
+      "w": 764,
+      "h": 766,
+      "widths": [
+        382,
+        764
+      ],
+      "alpha": true,
+      "formats": [
+        "avif",
+        "webp"
+      ]
+    },
+    "croissant-ingredients": {
+      "w": 2580,
+      "h": 862,
+      "widths": [
+        1290,
+        2580
+      ],
+      "alpha": true,
+      "formats": [
+        "avif",
+        "webp"
+      ]
+    },
+    "pastries": {
+      "w": 904,
+      "h": 1130,
+      "widths": [
+        480,
+        800,
+        904
+      ],
+      "alpha": false,
+      "formats": [
+        "avif",
+        "webp",
+        "jpg"
+      ]
+    },
+    "bread": {
+      "w": 896,
+      "h": 1120,
+      "widths": [
+        480,
+        800,
+        896
+      ],
+      "alpha": false,
+      "formats": [
+        "avif",
+        "webp",
+        "jpg"
+      ]
+    },
+    "lemon-meringue": {
+      "w": 1320,
+      "h": 1650,
+      "widths": [
+        480,
+        800,
+        1200,
+        1320
+      ],
+      "alpha": false,
+      "formats": [
+        "avif",
+        "webp",
+        "jpg"
+      ]
+    },
+    "daily-counter": {
+      "w": 1376,
+      "h": 1720,
+      "widths": [
+        480,
+        800,
+        1200,
+        1376
+      ],
+      "alpha": false,
+      "formats": [
+        "avif",
+        "webp",
+        "jpg"
+      ]
+    },
+    "imbibe-coffee": {
+      "w": 1280,
+      "h": 1600,
+      "widths": [
+        480,
+        800,
+        1200,
+        1280
+      ],
+      "alpha": false,
+      "formats": [
+        "avif",
+        "webp",
+        "jpg"
+      ]
+    },
+    "bakers-at-work": {
+      "w": 1328,
+      "h": 1660,
+      "widths": [
+        480,
+        800,
+        1200,
+        1328
+      ],
+      "alpha": false,
+      "formats": [
+        "avif",
+        "webp",
+        "jpg"
+      ]
+    },
+    "croissants-in-progress": {
+      "w": 1280,
+      "h": 1600,
+      "widths": [
+        480,
+        800,
+        1200,
+        1280
+      ],
+      "alpha": false,
+      "formats": [
+        "avif",
+        "webp",
+        "jpg"
+      ]
+    },
+    "bread-racks": {
+      "w": 1360,
+      "h": 1700,
+      "widths": [
+        480,
+        800,
+        1200,
+        1360
+      ],
+      "alpha": false,
+      "formats": [
+        "avif",
+        "webp",
+        "jpg"
+      ]
+    },
+    "shopfront": {
+      "w": 1972,
+      "h": 1580,
+      "widths": [
+        480,
+        800,
+        1200,
+        1600,
+        1972
+      ],
+      "alpha": false,
+      "formats": [
+        "avif",
+        "webp",
+        "jpg"
+      ]
+    },
+    "logo": {
+      "w": 320,
+      "h": 322,
+      "widths": [
+        160,
+        320
+      ],
+      "alpha": true,
+      "formats": [
+        "avif",
+        "webp"
+      ]
+    }
+  }
+}

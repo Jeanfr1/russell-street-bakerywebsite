@@ -1,0 +1,214 @@
+[
+  {
+    "file": "00-referencias/prancha-referencias.jpg",
+    "width": 2400,
+    "height": 1700,
+    "mode": "RGB",
+    "alpha_range": null,
+    "role": "referência fornecida"
+  },
+  {
+    "file": "01-identidade/logo-transparente.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "role": "derivação transparente da identidade fornecida"
+  },
+  {
+    "file": "01-identidade/prancha-identidade.jpg",
+    "width": 1600,
+    "height": 1050,
+    "mode": "RGB",
+    "alpha_range": null,
+    "role": "composição documental"
+  },
+  {
+    "file": "02-direcao/mockup-desktop.jpg",
+    "width": 1600,
+    "height": 4500,
+    "mode": "RGB",
+    "alpha_range": null,
+    "role": "composição documental"
+  },
+  {
+    "file": "02-direcao/mockup-mobile.jpg",
+    "width": 780,
+    "height": 4700,
+    "mode": "RGB",
+    "alpha_range": null,
+    "role": "composição documental"
+  },
+  {
+    "file": "03-hero/forno-cena-mestre.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "role": "campanha/camada criada com imagegen"
+  },
+  {
+    "file": "03-hero/forno-fundo.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha_range": null,
+    "role": "campanha/camada criada com imagegen"
+  },
+  {
+    "file": "03-hero/hero-camadas.jpg",
+    "width": 1600,
+    "height": 1000,
+    "mode": "RGB",
+    "alpha_range": null,
+    "role": "composição documental"
+  },
+  {
+    "file": "03-hero/hero-desktop.jpg",
+    "width": 1600,
+    "height": 1060,
+    "mode": "RGB",
+    "alpha_range": null,
+    "role": "composição documental"
+  },
+  {
+    "file": "03-hero/hero-mobile.jpg",
+    "width": 780,
+    "height": 1480,
+    "mode": "RGB",
+    "alpha_range": null,
+    "role": "composição documental"
+  },
+  {
+    "file": "04-fotos-reais/at-the-counter.png",
+    "width": 1000,
+    "height": 1812,
+    "mode": "RGBA",
+    "alpha_range": [
+      255,
+      255
+    ],
+    "role": "original fornecido, pixels intactos"
+  },
+  {
+    "file": "04-fotos-reais/bakers-at-work.png",
+    "width": 1454,
+    "height": 1820,
+    "mode": "RGBA",
+    "alpha_range": [
+      255,
+      255
+    ],
+    "role": "original fornecido, pixels intactos"
+  },
+  {
+    "file": "04-fotos-reais/bread-racks.png",
+    "width": 1458,
+    "height": 1836,
+    "mode": "RGBA",
+    "alpha_range": [
+      255,
+      255
+    ],
+    "role": "original fornecido, pixels intactos"
+  },
+  {
+    "file": "04-fotos-reais/croissants-in-progress.png",
+    "width": 1440,
+    "height": 1740,
+    "mode": "RGBA",
+    "alpha_range": [
+      255,
+      255
+    ],
+    "role": "original fornecido, pixels intactos"
+  },
+  {
+    "file": "04-fotos-reais/imbibe-coffee.png",
+    "width": 1454,
+    "height": 1748,
+    "mode": "RGBA",
+    "alpha_range": [
+      255,
+      255
+    ],
+    "role": "original fornecido, pixels intactos"
+  },
+  {
+    "file": "04-fotos-reais/instagram-profile.png",
+    "width": 2048,
+    "height": 1224,
+    "mode": "RGBA",
+    "alpha_range": [
+      255,
+      255
+    ],
+    "role": "original fornecido, pixels intactos"
+  },
+  {
+    "file": "04-fotos-reais/lemon-meringue.png",
+    "width": 1452,
+    "height": 1798,
+    "mode": "RGBA",
+    "alpha_range": [
+      255,
+      255
+    ],
+    "role": "original fornecido, pixels intactos"
+  },
+  {
+    "file": "04-fotos-reais/russell-street-front.png",
+    "width": 986,
+    "height": 828,
+    "mode": "RGBA",
+    "alpha_range": [
+      255,
+      255
+    ],
+    "role": "original fornecido, pixels intactos"
+  },
+  {
+    "file": "04-fotos-reais/the-daily-counter.png",
+    "width": 1456,
+    "height": 1818,
+    "mode": "RGBA",
+    "alpha_range": [
+      255,
+      255
+    ],
+    "role": "original fornecido, pixels intactos"
+  },
+  {
+    "file": "05-camadas/croissant-em-camadas.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "role": "campanha/camada criada com imagegen"
+  },
+  {
+    "file": "05-camadas/pa-e-massas.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "role": "campanha/camada criada com imagegen"
+  },
+  {
+    "file": "06-roteiros/storyboard.jpg",
+    "width": 1800,
+    "height": 1040,
+    "mode": "RGB",
+    "alpha_range": null,
+    "role": "composição documental"
+  }
+]

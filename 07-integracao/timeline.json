@@ -1,0 +1,56 @@
+{
+  "name": "Before the first bite / The warmth between / A study in layers",
+  "kind": "2.5D composition at scroll",
+  "desktop_height": "240vh",
+  "mobile_height": "205vh",
+  "peel": {
+    "scale": [
+      0.7,
+      0.88
+    ],
+    "translate_y_vh": [
+      8,
+      10
+    ],
+    "registration": "calibrated, not pixel-perfect"
+  },
+  "stages": [
+    {
+      "range": [
+        0,
+        0.16
+      ],
+      "scene": "oven and live title"
+    },
+    {
+      "range": [
+        0.16,
+        0.32
+      ],
+      "scene": "peel advance, copy fade"
+    },
+    {
+      "range": [
+        0.29,
+        0.57
+      ],
+      "scene": "heat and oven fade"
+    },
+    {
+      "range": [
+        0.4,
+        0.6
+      ],
+      "scene": "cream signature scene"
+    },
+    {
+      "range": [
+        0.6,
+        1
+      ],
+      "scene": "five croissant sections spread"
+    }
+  ],
+  "reduced_motion": "static initial scene with actions",
+  "implementation": "08-estudo/portal.js motionAt"
+}

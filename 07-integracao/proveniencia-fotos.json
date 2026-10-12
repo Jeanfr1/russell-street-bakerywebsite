@@ -1,0 +1,128 @@
+[
+  {
+    "file": "04-fotos-reais/instagram-profile.png",
+    "source": "Screenshot 2026-10-12 at 22.54.37.png",
+    "width": 2048,
+    "height": 1224,
+    "display_rect": {
+      "x": 0,
+      "y": 0,
+      "width": 2048,
+      "height": 1224
+    },
+    "sha256": "71b2e8fa1b330d9894f148cb095295bdc3f50bdedf134a1c0e955d8cc10e71ea",
+    "pixels": "original fornecido, sem reescrita"
+  },
+  {
+    "file": "04-fotos-reais/at-the-counter.png",
+    "source": "Screenshot 2026-10-12 at 22.54.59.png",
+    "width": 1000,
+    "height": 1812,
+    "display_rect": {
+      "x": 0,
+      "y": 30,
+      "width": 1000,
+      "height": 1690
+    },
+    "sha256": "9e2dcf5f9576fab7b53bef5a980e1a16e3fe26efea5b032f99e2c54923acf923",
+    "pixels": "original fornecido, sem reescrita"
+  },
+  {
+    "file": "04-fotos-reais/bread-racks.png",
+    "source": "Screenshot 2026-10-12 at 22.55.19.png",
+    "width": 1458,
+    "height": 1836,
+    "display_rect": {
+      "x": 40,
+      "y": 30,
+      "width": 1380,
+      "height": 1700
+    },
+    "sha256": "c5c295dca9a247fa482ace266b8bebbebb256e88be797a2618da3fff53e35617",
+    "pixels": "original fornecido, sem reescrita"
+  },
+  {
+    "file": "04-fotos-reais/croissants-in-progress.png",
+    "source": "Screenshot 2026-10-12 at 22.55.30.png",
+    "width": 1440,
+    "height": 1740,
+    "display_rect": {
+      "x": 0,
+      "y": 30,
+      "width": 1440,
+      "height": 1600
+    },
+    "sha256": "e4470c7564c8db7996633b176afc1b830b0f98c6e48a2c8cbfbca408d492d598",
+    "pixels": "original fornecido, sem reescrita"
+  },
+  {
+    "file": "04-fotos-reais/bakers-at-work.png",
+    "source": "Screenshot 2026-10-12 at 22.55.47.png",
+    "width": 1454,
+    "height": 1820,
+    "display_rect": {
+      "x": 20,
+      "y": 40,
+      "width": 1410,
+      "height": 1660
+    },
+    "sha256": "cd5783cbba4330d8723279fb1fc4e7168c460f7b681455ceab94e79a58d7490c",
+    "pixels": "original fornecido, sem reescrita"
+  },
+  {
+    "file": "04-fotos-reais/imbibe-coffee.png",
+    "source": "Screenshot 2026-10-12 at 22.55.57.png",
+    "width": 1454,
+    "height": 1748,
+    "display_rect": {
+      "x": 10,
+      "y": 60,
+      "width": 1430,
+      "height": 1570
+    },
+    "sha256": "69bdb912c4017031ee3653d1107e7c6fecaf2a35f5019c13bf2594ea6bf11c5b",
+    "pixels": "original fornecido, sem reescrita"
+  },
+  {
+    "file": "04-fotos-reais/lemon-meringue.png",
+    "source": "Screenshot 2026-10-12 at 22.56.45.png",
+    "width": 1452,
+    "height": 1798,
+    "display_rect": {
+      "x": 0,
+      "y": 30,
+      "width": 1452,
+      "height": 1690
+    },
+    "sha256": "cbad4eb9e5c1183ec39708b01a1094a0c24dcc591e8292a0ba6e5aca46d6b10c",
+    "pixels": "original fornecido, sem reescrita"
+  },
+  {
+    "file": "04-fotos-reais/the-daily-counter.png",
+    "source": "Screenshot 2026-10-12 at 22.56.57.png",
+    "width": 1456,
+    "height": 1818,
+    "display_rect": {
+      "x": 0,
+      "y": 30,
+      "width": 1456,
+      "height": 1740
+    },
+    "sha256": "dc75cd02ede3b3d87d5e914650ed16d44de5d11724bc4b09716143ad89bb3667",
+    "pixels": "original fornecido, sem reescrita"
+  },
+  {
+    "file": "04-fotos-reais/russell-street-front.png",
+    "source": "Screenshot 2026-10-12 at 23.00.35.png",
+    "width": 986,
+    "height": 828,
+    "display_rect": {
+      "x": 0,
+      "y": 0,
+      "width": 986,
+      "height": 790
+    },
+    "sha256": "18b6d74ef9dd2ca7d956853fe14d79ec1827535974e56a4703169533e1e5861a",
+    "pixels": "original fornecido, sem reescrita"
+  }
+]

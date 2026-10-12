@@ -1,0 +1,27 @@
+{
+  "name": "russell-street-bakery",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Russell Street Bakery, Dublin 1 — The morning, made by hand.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4191",
+    "images": "node scripts/build-images.mjs",
+    "fonts": "~/anaconda3/bin/python3 scripts/subset-fonts.py",
+    "hero": "~/anaconda3/bin/python3 scripts/measure-hero.py",
+    "qa": "node scripts/qa.mjs"
+  },
+  "engines": {
+    "node": ">=20.10"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.64.0",
+    "sharp": "^0.33.5",
+    "vite": "^6.4.4"
+  },
+  "dependencies": {
+    "@fontsource-variable/jost": "^5.3.0"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Russell Street Bakery",
+  "concept": "The morning, made by hand.",
+  "language": "en-IE",
+  "address": "Unit 2, Behan Square, Russell Street, Dublin 1, D01 HX78, Ireland",
+  "instagram_url": "https://www.instagram.com/russellst.bakery/",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=Russell+Street+Bakery+Unit+2+Behan+Square+Russell+Street+Dublin+D01+HX78",
+  "phone": null,
+  "email": null,
+  "hours": {
+    "monday_friday": "07:00–15:00",
+    "saturday_sunday": "07:30–15:00",
+    "source": "Perfil Instagram fornecido: Screenshot 2026-10-12 at 22.54.37.png",
+    "exceptions": "Confirmar com a bakery"
+  },
+  "service": {
+    "takeaway": true,
+    "indoor_tables": false,
+    "delivery": false,
+    "online_ordering": false,
+    "sources": [
+      "Perfil Instagram fornecido",
+      "https://www.visitdublin.com/guides/best-bakeries-dublin"
+    ]
+  },
+  "menu": {
+    "prices": null,
+    "availability": "Selection changes throughout the day; consult the bakery.",
+    "categories": [
+      "Pastries",
+      "Bread",
+      "Savoury",
+      "Coffee"
+    ],
+    "items_status": "Seleção editorial documentada, não inventário ao vivo"
+  },
+  "palette": {
+    "cream": "#F4EBDD",
+    "linen": "#E8DCC8",
+    "ink": "#302821",
+    "slate": "#405665",
+    "wheat": "#B49E6A",
+    "crust": "#9C623B"
+  },
+  "story": {
+    "founder": "Thibault Peigne",
+    "opened": 2023,
+    "tartine_relationship": "Founded by the baker behind Tartine Organic Bakery",
+    "source": "https://www.visitdublin.com/guides/best-bakeries-dublin"
+  },
+  "logo_status": "Derivação transparente da identidade fornecida; não um vetor oficial",
+  "site_status": "Estudo e kit, sem publicação"
+}

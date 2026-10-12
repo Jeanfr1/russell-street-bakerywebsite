@@ -1,0 +1,60 @@
+{
+  "canvas": [
+    1536,
+    1024
+  ],
+  "croissant_asset": "05-camadas/croissant-em-camadas.png",
+  "ingredients_y_percent": [
+    0,
+    37
+  ],
+  "sections_x_percent": [
+    [
+      0,
+      26.2
+    ],
+    [
+      26.2,
+      41.5
+    ],
+    [
+      41.5,
+      58.7
+    ],
+    [
+      58.7,
+      73
+    ],
+    [
+      73,
+      100
+    ]
+  ],
+  "sections_y_percent": [
+    34,
+    93
+  ],
+  "note": "Masks for native presentation; check edges at production crop",
+  "real_product_crops": [
+    {
+      "source": "04-fotos-reais/instagram-profile.png",
+      "use": "pastries",
+      "rect": [
+        117,
+        596,
+        457,
+        600
+      ]
+    },
+    {
+      "source": "04-fotos-reais/instagram-profile.png",
+      "use": "bread",
+      "rect": [
+        1487,
+        596,
+        457,
+        600
+      ]
+    }
+  ]
+}

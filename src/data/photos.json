@@ -1,0 +1,98 @@
+{
+  "pastries": {
+    "src": "04-fotos-reais/instagram-profile.png",
+    "rect": [
+      118,
+      614,
+      452,
+      565
+    ],
+    "upscale": true,
+    "inpaint": [
+      [
+        529,
+        606,
+        33,
+        33
+      ]
+    ],
+    "note": "first grid tile of the profile capture (x 117-572, y 595-1203); the pinned-post icon is inpainted (white pixels inside the inpaint rect)"
+  },
+  "bread": {
+    "src": "04-fotos-reais/instagram-profile.png",
+    "rect": [
+      1491,
+      600,
+      448,
+      560
+    ],
+    "upscale": true,
+    "note": "fourth grid tile (x 1488-1943); the kit rect ran past the tile edge"
+  },
+  "lemon-meringue": {
+    "src": "04-fotos-reais/lemon-meringue.png",
+    "rect": [
+      66,
+      40,
+      1320,
+      1650
+    ],
+    "note": "stops above the viewer icons (y > 1700)"
+  },
+  "daily-counter": {
+    "src": "04-fotos-reais/the-daily-counter.png",
+    "rect": [
+      40,
+      40,
+      1376,
+      1720
+    ]
+  },
+  "imbibe-coffee": {
+    "src": "04-fotos-reais/imbibe-coffee.png",
+    "rect": [
+      30,
+      80,
+      1280,
+      1600
+    ],
+    "note": "clear of the download icon (top right), carousel arrow (x 1400+) and viewer icons (bottom)"
+  },
+  "bakers-at-work": {
+    "src": "04-fotos-reais/bakers-at-work.png",
+    "rect": [
+      60,
+      40,
+      1328,
+      1660
+    ]
+  },
+  "croissants-in-progress": {
+    "src": "04-fotos-reais/croissants-in-progress.png",
+    "rect": [
+      80,
+      30,
+      1280,
+      1600
+    ]
+  },
+  "bread-racks": {
+    "src": "04-fotos-reais/bread-racks.png",
+    "rect": [
+      40,
+      30,
+      1360,
+      1700
+    ]
+  },
+  "shopfront": {
+    "src": "04-fotos-reais/russell-street-front.png",
+    "rect": [
+      0,
+      0,
+      986,
+      790
+    ],
+    "upscale": true
+  }
+}
